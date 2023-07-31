@@ -2,9 +2,10 @@
 The apps that helps to develop the sound knowledge and hands-on expereince for Android/Kotlin fundamentals.
 
 # Fragments And Navigation - Talks about following topics -
-1. Fragments
-2. Navigation Components
-3. Safe Args
+1. Dependencies
+2. Fragments
+3. Navigation Components
+4. Safe Args
 
 ## Dependencies
 1. To use Navigation - following dependency is used -
