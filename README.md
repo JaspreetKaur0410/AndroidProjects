@@ -1,6 +1,11 @@
 # AndroidProjects
 The apps that helps to develop the sound knowledge and hands-on expereince for Android/Kotlin fundamentals.
 
+# Fragments And Navigation - Talks about following topics -
+1. Fragments
+2. Navigation Components
+3. Safe Args
+
 ## Dependencies
 1. To use Navigation - following dependency is used -
 '''
@@ -13,12 +18,6 @@ implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     id 'androidx.navigation.safeargs.kotlin'
 }
    '''
-
-
-## Fragments And Navigation - Talks about following topics -
-1. Fragments
-2. Navigation Components
-3. Safe Args
 
 ### Fragments
 1. Fragment is re-usable class implementing a portion of Activity
