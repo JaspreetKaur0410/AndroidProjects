@@ -1,7 +1,7 @@
 # AndroidProjects
 The apps that helps to develop the sound knowledge and hands-on expereince for Android/Kotlin fundamentals.
 
-# Fragments And Navigation - Talks about following topics -
+# First App - Fragments And Navigation - Talks about following topics -
 1. Dependencies
 2. Fragments
 3. Navigation Components
