@@ -7,6 +7,9 @@ The apps that helps to develop the sound knowledge and hands-on expereince for A
 3. Navigation Components
 4. Safe Args
 
+## Introduction
+This simple app takes you from one fragment to another. First screen is the welcome screen where the next bustton is clicked and it prompts to add message which is then converted to secret message on clicking next button.
+
 ## Dependencies
 1. To use Navigation - following dependency is used -
 '''
